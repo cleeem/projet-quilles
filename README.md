@@ -18,10 +18,10 @@ Puis cliquez sur terminal
 
 Ensuite, il faudra taper les commandes suivantes:
 
-    -pip install customtkinter
+    pip install customtkinter
     
   ainsi que
   
-    -pip install pillow
+    pip install pillow
   
 Lorsque l'instalation sera terminée vous pourrez retourner sur la fenêtre principale et lancer le programme en appuyant sur la flèche jaune en bas à droite
